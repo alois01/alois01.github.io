@@ -13,7 +13,7 @@
                 <div id="branding">
                     <h1>
                         <a href="index.html">
-                            <span class="highlight">Ali</span> Wessfeldt
+                            <span class="highlight">Ali</span> Yassen
                         </a>
                     </h1>
 

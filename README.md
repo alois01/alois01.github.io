@@ -22,7 +22,7 @@
                     <ul>
                         <li class="current"><a href="index.html">Hem</a></li>
                         <li><a href="about.html">Om Mig</a></li>
-                        
+
                     </ul>
                 </nav>
             </div>
